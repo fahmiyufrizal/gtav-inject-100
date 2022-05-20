@@ -6,11 +6,16 @@ GTA V Inject Save Game 100% - Ditulis menggunakan Notepad++ - Dibuild dengan Pyt
 
 - Auto Inject Save Game 100% jika menekan "Yes". Support untuk crack 3DM, RLD!, dan Goldberg
 - Load file instruksi.txt yang bisa dikustomisasi (biasanya digunakan untuk instruksi bermain GTA V LAN
+- Config.ini yang digunakan untuk mengatur injector
+- Launcher Nama Player, digunakan untuk mengatur nama player co-op sebelum masuk game
+- Auto optimize GTA Co-op Settings
+- Advanced Tweaking untuk GTA Co-op Settings bila diperlukan
 
 ## Notes
 - Hanya support path yang tertera di forum cs.rin.ru (https://cs.rin.ru/forum/viewtopic.php?f=10&t=67450)
 Asal tidak utak atik file config/cracknya, aman.
 - instruksi.txt bisa di-disable dengan rename file/hapus file instruksi.txt di dalam folder _GTAV_Data_
+-  Baca cara penggunaan config.ini dengan membuka file config.ini!
 
 ## Instalasi dan cara menggunakan
 
