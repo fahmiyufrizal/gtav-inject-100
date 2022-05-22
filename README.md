@@ -20,7 +20,8 @@ Asal tidak utak atik file config/cracknya, aman.
 ## Instalasi dan cara menggunakan
 
 1. Letakkan seluruh file dan folder di dalam folder GTA V
-2. Setelah sukses, buka Launcher_GTAV_Inject.exe
+2. Buka config.ini didalam folder GTAV_Data, set sesuai keinginan 
+3. Jalankan Launcher_GTAV_Inject.exe
 
 ## Terimakasih Kepada
 
