@@ -1,0 +1,17 @@
+==========================
+Cara mabar (main bareng)
+GTA V di warnet
+==========================
+1. Buka GTA V (gunakan save game 100% biar cepat)
+2. Tekan F9 ketika sudah masuk game
+3. Buka Client settings (gunakan keyboard/mouse)
+4. Ubah nama 'Player' menjadi nama yang diinginkan
+5. Hilangkan centang di 'Share NPCs' dan centang 'Disable Traffic'
+6. Kembali ke menu utama (dengan tombol Esc)
+7. Pilih LAN
+8. Pilih Server warnet yang ada
+9. Selamat, sudah terkoneksi!
+
+PS : Gunakan F5 untuk membuka cheat agar bebas memilih
+kendaraan, senjata, dsb.
+============================

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PlayerSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Username>Player</Username>
+  <LastIP>192.168.1.254</LastIP>
+  <LastPort>4499</LastPort>
+  <LastPassword>changeme</LastPassword>
+  <SyncWorld>true</SyncWorld>
+  <DisableTraffic>false</DisableTraffic>
+  <DisablePeds>false</DisablePeds>
+  <Logging>false</Logging>
+  <ChatLog>false</ChatLog>
+  <MaxStreamedNpcs>10</MaxStreamedNpcs>
+  <MasterServerAddress>https://master.gtacoop.com</MasterServerAddress>
+  <BackupMasterServerAddress>http://clan-banderos.de/gta/</BackupMasterServerAddress>
+  <ActivationKey>F9</ActivationKey>
+  <HidePasswords>false</HidePasswords>
+  <AutoConnect>false</AutoConnect>
+  <AutoReconnect>true</AutoReconnect>
+  <AutoLogin />
+  <AutoRegister>true</AutoRegister>
+  <AutoStartServer>false</AutoStartServer>
+  <ShowNetGraph>false</ShowNetGraph>
+</PlayerSettings>

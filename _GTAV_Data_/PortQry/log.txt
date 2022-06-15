@@ -1,0 +1,28 @@
+PortQry Version 2.0 Log File
+
+System Date: Wed Jun 15 21:37:09 2022
+
+Command run:
+ _GTAV_Data_\portqry\PortQry.exe -n 127.0.0.1 -p UDP -e 4499 -l _GTAV_Data_\portqry\log.txt -q
+
+Local computer name:
+
+ DESKTOP-OFNQMON
+
+Querying target system called:
+
+ 127.0.0.1
+
+Attempting to resolve IP address to a name...
+
+
+IP address resolved to DESKTOP-OFNQMON
+
+querying...
+
+UDP port 4499 (unknown service): NOT LISTENING
+
+
+========= end of log file ========= 
+
+  PortQry developed by Tim Rains
