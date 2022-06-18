@@ -10,6 +10,9 @@ GTA V Inject Save Game 100% - Ditulis menggunakan Notepad++ - Dibuild dengan Pyt
 - Launcher Nama Player, digunakan untuk mengatur nama player co-op sebelum masuk game
 - Auto optimize GTA Co-op Settings
 - Advanced Tweaking untuk GTA Co-op Settings bila diperlukan
+- Auto-Check Service GTA Co-Op di server
+- Set Hostname/PC Name as 'Username' bila tidak set custom-name
+
 
 ## Notes
 - Hanya support path yang tertera di forum cs.rin.ru (https://cs.rin.ru/forum/viewtopic.php?f=10&t=67450)
