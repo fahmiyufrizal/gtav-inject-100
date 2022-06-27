@@ -12,6 +12,7 @@ GTA V Inject Save Game 100% - Ditulis menggunakan Notepad++ - Dibuild dengan Pyt
 - Advanced Tweaking untuk GTA Co-op Settings bila diperlukan
 - Auto-Check Service GTA Co-Op di server
 - Set Hostname/PC Name as 'Username' bila tidak set custom-name
+- Set Limit Character untuk mencegah user memasukkan nama terlalu panjang (default = 15 karakter)
 
 
 ## Notes
