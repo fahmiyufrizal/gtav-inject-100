@@ -20,6 +20,7 @@ GTA V Inject Save Game 100% - Ditulis menggunakan Notepad++ - Dibuild dengan Pyt
 Asal tidak utak atik file config/cracknya, aman.
 - instruksi.txt bisa di-disable dengan rename file/hapus file instruksi.txt di dalam folder _GTAV_Data_
 -  Baca cara penggunaan config.ini dengan membuka file config.ini!
+- Tidak termasuk mod co-op!
 
 ## Instalasi dan cara menggunakan
 
