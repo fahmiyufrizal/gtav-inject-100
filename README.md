@@ -11,13 +11,13 @@ GTA V Inject Save Game 100% - Ditulis menggunakan Notepad++ - Dibuild dengan Pyt
 - Auto optimize GTA Co-op Settings
 - Advanced Tweaking untuk GTA Co-op Settings bila diperlukan
 - Auto-Check Service GTA Co-Op di server
-- Set Hostname/PC Name as 'Username' bila tidak set custom-name
 - Set Limit Character untuk mencegah user memasukkan nama terlalu panjang (default = 15 karakter)
 
 
 ## Notes
 - Hanya support path yang tertera di forum cs.rin.ru (https://cs.rin.ru/forum/viewtopic.php?f=10&t=67450)
 Asal tidak utak atik file config/cracknya, aman.
+- Sekarang support GTA V yang disediakan oleh CyberCafeUpdater (save path : C:\ProgramData\SocialClub\%UserName%\217590)
 - instruksi.txt bisa di-disable dengan rename file/hapus file instruksi.txt di dalam folder _GTAV_Data_
 -  Baca cara penggunaan config.ini dengan membuka file config.ini!
 - Tidak termasuk mod co-op!
