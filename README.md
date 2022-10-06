@@ -15,11 +15,11 @@ GTA V Inject Save Game 100% - Ditulis menggunakan Notepad++ - Dibuild dengan Pyt
 
 
 ## Notes
-- Hanya support path yang tertera di forum cs.rin.ru (https://cs.rin.ru/forum/viewtopic.php?f=10&t=67450)
+- Support path yang tertera di forum cs.rin.ru (https://cs.rin.ru/forum/viewtopic.php?f=10&t=67450)
 Asal tidak utak atik file config/cracknya, aman.
-- Sekarang support GTA V yang disediakan oleh CyberCafeUpdater (save path : C:\ProgramData\SocialClub\%UserName%\217590)
+- Support GTA V yang disediakan oleh CyberCafeUpdater (save path : C:\ProgramData\SocialClub\%UserName%\217590)
 - instruksi.txt bisa di-disable dengan rename file/hapus file instruksi.txt di dalam folder _GTAV_Data_
--  Baca cara penggunaan config.ini dengan membuka file config.ini!
+- Baca cara penggunaan config.ini dengan membuka file config.ini!
 - Tidak termasuk mod co-op!
 
 ## Instalasi dan cara menggunakan
