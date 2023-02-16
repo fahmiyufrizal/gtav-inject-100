@@ -1,6 +1,6 @@
-# GTA V Inject Save Game 100%
+# GTA V Inject Save Game 100% + Launcher Co-Op
 
-GTA V Inject Save Game 100% - Ditulis menggunakan Notepad++ - Dibuild dengan Python
+GTA V Inject Save Game 100% + Launcher Co-Op - Ditulis menggunakan Notepad++ - Dibuild dengan Python
 
 ## Fitur
 
@@ -12,7 +12,6 @@ GTA V Inject Save Game 100% - Ditulis menggunakan Notepad++ - Dibuild dengan Pyt
 - Advanced Tweaking untuk GTA Co-op Settings bila diperlukan
 - Auto-Check Service GTA Co-Op di server
 - Set Limit Character untuk mencegah user memasukkan nama terlalu panjang (default = 15 karakter)
-
 
 ## Notes
 - Support path yang tertera di forum cs.rin.ru (https://cs.rin.ru/forum/viewtopic.php?f=10&t=67450)
